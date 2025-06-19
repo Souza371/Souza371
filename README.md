@@ -46,9 +46,13 @@
 --- 
 
 ### **💻 Meus Projetos**  
+### **💻 Meus Projetos**  
 🔹 [Calculadora em JavaScript](https://github.com/Souza371/Calculadora) - Projeto funcional de calculadora  
 🔹 [Site Responsivo](https://github.com/Souza371/Site-responsivo) - Site com adaptação para diferentes telas  
 🔹 [Python Básico](https://github.com/Souza371/Python) - Meus primeiros passos em Python  
+
+🌟 **Projetos Favoritos (Que eu dei estrela!)**  
+(Adicione aqui links de repositórios externos que você curtiu e deu ⭐)  
 
 ---
 
