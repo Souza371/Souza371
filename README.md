@@ -10,7 +10,9 @@
   <img align="center" alt="Vicente-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux (Básico)">
 </div>  
 
-#🐍  
+---
+
+### **🐍 Cobrinha das Minhas Contribuições**  
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
@@ -26,6 +28,7 @@
   >
 </picture>
 
+---
 
 ### **📲 Conecte-se comigo**  
 <div>  
@@ -40,16 +43,19 @@
   </a>  
 </div>  
 
+--- 
 
 ### **💻 Meus Projetos**  
 🔹 [Calculadora em JavaScript](https://github.com/Souza371/Calculadora) - Projeto funcional de calculadora  
 🔹 [Site Responsivo](https://github.com/Souza371/Site-responsivo) - Site com adaptação para diferentes telas  
 🔹 [Python Básico](https://github.com/Souza371/Python) - Meus primeiros passos em Python  
 
+---
 
 ### **📊 GitHub Stats**  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Souza371&theme=dark)](https://git.io/streak-stats)  
 
+---
 
 ### **✨ Curiosidades**  
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas**  
