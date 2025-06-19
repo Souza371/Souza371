@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+on:
+  # Executa automaticamente a cada 6 horas
+  schedule:
+    - cron: '0 */6 * * *'
+  # Permite executar manualmente
+  workflow_dispatch:
+  # Executa em todo push na branch main/master
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permite escrever no repositório
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}  # Pega seu usuário automaticamente
+          output: dist/github-contribution-grid-snake.svg
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Seu Nome"
+          git config --global user.email "seu@email.com"
+          git add -A
+          git commit -m "Update snake animation"
+          git push
