@@ -12,7 +12,7 @@
 
 ---
 
-### **🐍 Cobrinha das Minhas Contribuições**  
+### **🐍 Cobrinha**  
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
