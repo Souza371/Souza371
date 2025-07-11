@@ -13,20 +13,7 @@
 ---
 
 ### **🐍 Cobrinha**  
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake.svg"
-  >
-  <img 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake.svg"
-  >
-</picture>
+![Snake animation](https://github.com/Souza371/Souza371/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -57,6 +44,7 @@
 
 ### **📊 GitHub Stats**  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Souza371&theme=dark)](https://git.io/streak-stats)  
+[![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
