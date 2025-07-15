@@ -26,7 +26,7 @@
 
 ---
 
-### 🐍 
+### 🐍 serpens 
 ![Snake animation](https://github.com/Souza371/Souza371/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
