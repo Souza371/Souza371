@@ -1,14 +1,14 @@
-### 👋 Olá, eu sou Vicente de Souza!
-**Desenvolvedor Front-End | HTML | CSS | JavaScript | Python**  
+### 👋 Olá, eu sou Vicente de Souza!  
+**Desenvolvedor Front-End | HTML | CSS | JavaScript | Python**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
-<div style="display: inline_block" align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,git,linux,vscode,react" />
 </div>
 
@@ -26,8 +26,11 @@
 
 ---
 
-### 🐍 serpens 
-![Snake animation](https://github.com/Souza371/Souza371/blob/output/github-contribution-grid-snake-dark.svg)
+### 🐍 serpens
+<!-- Certifique-se que o arquivo 'output/github-contribution-grid-snake.svg' existe no seu repositório -->
+<div align="center">
+  <img src="https://github.com/Souza371/Souza371/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -47,6 +50,7 @@
 ---
 
 ### 🚀 Projetos Destacados
+
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Calculadora JS](https://github.com/Souza371/Calculadora) | Calculadora funcional com operações básicas | JavaScript, HTML, CSS |
@@ -56,10 +60,10 @@
 ---
 
 ### 📚 Estudando Atualmente
-- 🔹 **JavaScript Avançado** (ES6+, Node.js)
-- 🔹 **React.js** (Hooks, Context API)
-- 🔹 **Design Systems**
-- 🔹 **Testes Automatizados** (Jest)
+- 🔹 JavaScript Avançado (ES6+, Node.js)  
+- 🔹 React.js (Hooks, Context API)  
+- 🔹 Design Systems  
+- 🔹 Testes Automatizados (Jest)  
 
 ---
 
@@ -67,7 +71,7 @@
 ✅ Publicar 1 projeto por mês  
 ✅ Contribuir para open-source  
 ✅ Dominar React.js  
-✅ Obter certificação front-end
+✅ Obter certificação front-end  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Souza371&color=blueviolet&style=flat" alt="Profile Views" />
