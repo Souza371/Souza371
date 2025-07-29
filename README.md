@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,git,linux,vscode,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,linux,vscode,react" />
 </div>
 
 ---
@@ -26,10 +26,9 @@
 
 ---
 
-### 🐍 serpens
-<!-- Certifique-se que o arquivo 'output/github-contribution-grid-snake.svg' existe no seu repositório -->
+### 🐍 GitHub Snake Contribution
 <div align="center">
-  <img src="https://github.com/Souza371/Souza371/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
