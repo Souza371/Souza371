@@ -1,24 +1,18 @@
 # 👋 Olá! Eu sou o **Vicente Souza**
 
-**Desenvolvedor Front‑End** focado em **HTML • CSS • JavaScript** e em evolução com **Python**, **React** e **Flutter**. Curioso por UI/UX, performance e automação. Aqui você encontra meus estudos, projetos e experimentos.
+**Desenvolvedor Front-End** focado em **HTML • CSS • JavaScript**, em constante evolução com **Python**, **React** e **Flutter**.  
+Curioso por **UI/UX**, **performance** e **automação**.  
+Aqui você encontra meus estudos, projetos e experimentos.
 
 <div align="center">
 
 [![Open to work](https://img.shields.io/badge/Open%20to%20work-yes-success?style=for-the-badge)](#)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-em_breve-informational?style=for-the-badge)](#)
-[![E‑mail](https://img.shields.io/badge/Gmail-vicenteesouza371%40gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vicenteesouza371@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vicente--de--souza-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vicente-de-souza-146b4527a/)
-[![Instagram](https://img.shields.io/badge/Instagram-@vicente__de__souza__-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/vicente_de_souza_/)
-[![Visits](https://komarev.com/ghpvc/?username=Souza371\&style=for-the-badge\&color=blueviolet)](#)
+[![E-mail](https://img.shields.io/badge/Gmail-vicenteesouza371%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenteesouza371@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vicente--de--souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-de-souza-146b4527a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@vicente__de__souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicente_de_souza_/)
+[![Visits](https://komarev.com/ghpvc/?username=Souza371&style=for-the-badge&color=blueviolet)](#)
 
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -33,14 +27,16 @@
 
 ## 🚀 Projetos em Destaque
 
-| Projeto              | Descrição                                         | Tech          | Repo                                                                             |
-| -------------------- | ------------------------------------------------- | ------------- | -------------------------------------------------------------------------------- |
-| Calculadora de IMC   | Calcula IMC com interface responsiva e validações | HTML, CSS, JS | [link](https://github.com/Souza371/-Calculadora-de-IMC)                          |
-| CRUD Gamificado      | CRUD com foco em usabilidade e feedback visual    | HTML, CSS, JS | [link](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado)                |
-| Gerenciador de Itens | Controle simples de itens com localStorage        | HTML, CSS, JS | [link](https://github.com/Souza371/gerenciador_itens)                            |
-| Dashboard Anime.js   | Mini dashboard animado para treinar animações     | JS (anime.js) | [link](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
-| Sistema de Recados   | App web para recados/notas                        | JS            | [link](https://github.com/Souza371/Projeto-Final-Sistema-de-Recados)             |
-| Personal Website     | Site pessoal simples (em evolução)                | HTML, CSS     | [link](https://github.com/Souza371/PersonalWebsite)                              |
+| Projeto              | Descrição                                         | Tech          | Repositório                                                                            |
+| -------------------- | ------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- |
+| **Guincho On Demand** | Sistema de solicitação de guincho online         | Python, JS    | [link](https://github.com/Souza371/Guincho-On-demand)                                 |
+| **Game of Thrones Quiz** | Jogo interativo baseado na série              | JS, HTML, CSS | [link](https://github.com/Souza371/Game-of-Trones)                                    |
+| Calculadora de IMC   | Calcula IMC com interface responsiva e validações | HTML, CSS, JS | [link](https://github.com/Souza371/-Calculadora-de-IMC)                               |
+| CRUD Gamificado      | CRUD com foco em usabilidade e feedback visual    | HTML, CSS, JS | [link](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado)                     |
+| Gerenciador de Itens | Controle simples de itens com localStorage        | HTML, CSS, JS | [link](https://github.com/Souza371/gerenciador_itens)                                 |
+| Dashboard Anime.js   | Mini dashboard animado para treinar animações     | JS (anime.js) | [link](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-)      |
+| Sistema de Recados   | App web para recados/notas                        | JS            | [link](https://github.com/Souza371/Projeto-Final-Sistema-de-Recados)                  |
+| Personal Website     | Site pessoal simples (em evolução)                | HTML, CSS     | [link](https://github.com/Souza371/PersonalWebsite)                                   |
 
 ---
 
@@ -65,23 +61,31 @@
 
 ---
 
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=darkhub&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📚 Estudando
 
-* JavaScript (ES6+), padrões e testes (Jest)
-* **React** (Hooks, Context, boas práticas)
-* **Flutter** (mobile apps cross-platform)
-* **Design Systems** e acessibilidade (ARIA)
-* **Automação** com Python (scripts, web scraping)
+- JavaScript (ES6+), padrões e testes (Jest)
+- **React** (Hooks, Context, boas práticas)
+- **Flutter** (mobile apps cross-platform)
+- **Design Systems** e acessibilidade (ARIA)
+- **Automação** com Python (scripts, web scraping)
 
 ---
 
 ## 🎯 Metas 2025
 
-* [x] Publicar 1 projeto por mês
-* [x] Contribuir em open source (issues/PRs iniciais)
-* [ ] Dominar React.js
-* [ ] Dominar Flutter
-* [ ] Obter certificação front‑end
+- [x] Publicar 1 projeto por mês  
+- [x] Contribuir em open source (issues/PRs iniciais)  
+- [ ] Dominar React.js  
+- [ ] Dominar Flutter  
+- [ ] Obter certificação front-end  
 
 ---
 
