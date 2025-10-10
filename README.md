@@ -4,14 +4,18 @@
 Curioso por **UI/UX**, **performance** e **automação**.  
 Aqui você encontra meus estudos, projetos e experimentos.
 
+---
+
 <div align="center">
 
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-yes-success?style=for-the-badge)](#)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-em_breve-informational?style=for-the-badge)](#)
-[![E-mail](https://img.shields.io/badge/Gmail-vicenteesouza371%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenteesouza371@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vicente--de--souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-de-souza-146b4527a/)
-[![Instagram](https://img.shields.io/badge/Instagram-@vicente__de__souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicente_de_souza_/)
-[![Visits](https://komarev.com/ghpvc/?username=Souza371&style=for-the-badge&color=blueviolet)](#)
+### 🌐 Conecte-se comigo
+
+<a href="#"><img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge&logo=github" alt="Open to work"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Em%20Breve-blue?style=for-the-badge&logo=vercel" alt="Portfólio"/></a>
+<a href="mailto:vicenteesouza371@gmail.com"><img src="https://img.shields.io/badge/Gmail-vicenteesouza371%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>  
+<a href="https://www.linkedin.com/in/vicente-souza-146b4527a/"><img src="https://img.shields.io/badge/LinkedIn-Vicente%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/vicente_de_souza_/"><img src="https://img.shields.io/badge/Instagram-@vicente__de__souza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=Souza371&style=for-the-badge&color=8A2BE2&label=Profile+Views" alt="Views"/></a>
 
 </div>
 
@@ -93,6 +97,6 @@ Aqui você encontra meus estudos, projetos e experimentos.
 
 <div align="center">
   <a href="mailto:vicenteesouza371@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vicente-de-souza-146b4527a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vicente-souza-146b4527a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/vicente_de_souza_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
