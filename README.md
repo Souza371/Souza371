@@ -3,17 +3,19 @@
 <p align="center">
   💻 Desenvolvedor de Sistemas | 🎯 Foco em Front-end, Automação e Experiências Interativas  
   <br/>
-  📍 Novo Hamburgo • Brasil | 📬 <a href="mailto:vicenteesouza371@gmail.com">vicenteesouza371@gmail.com</a>
+  📍 Novo Hamburgo - RS • Brasil  
+  <br/>
+  📬 <a href="mailto:vicenteesouza371@gmail.com">vicenteesouza371@gmail.com</a>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas.  
-Atualmente trabalho em projetos voltados para **web**, **automação** e **design responsivo**, sempre buscando unir **performance, estética e usabilidade**.  
+Sou um desenvolvedor apaixonado por tecnologia e inovação.  
+Atuo criando soluções completas em **web**, **automação** e **design responsivo**, com foco em **JavaScript**, **Python**, **HTML**, **CSS**, **React.js** e **Flutter**.  
 
-Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou aprofundando meus estudos em **React.js** e **Flutter** para criar soluções completas — do front-end ao back-end.  
+Gosto de aprender constantemente, experimentar novas tecnologias e transformar ideias em código funcional 🚀  
 
 ---
 
@@ -23,7 +25,7 @@ Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou ap
 
 | 💡 Linguagens | ⚙️ Ferramentas & Frameworks | 🎨 Front-end & UI |
 |----------------|-----------------------------|-------------------|
-| JavaScript (ES6+), Python, SQL, Java | Git, GitHub, Node.js, Flask, SQLite, VSCode | HTML5, CSS3, React.js, Bootstrap, Tailwind, Figma |
+| JavaScript (ES6+), Python, SQL, Java | Node.js, Flask, SQLite, Git, GitHub, VSCode | HTML5, CSS3, React.js, Bootstrap, Tailwind, Figma |
 
 </div>
 
@@ -47,12 +49,16 @@ Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou ap
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<!-- 🧠 Estatísticas principais -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<!-- 🧩 Linguagens mais usadas -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+
+<!-- 🔥 Streak -->
+<img src="https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -60,7 +66,7 @@ Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou ap
 ## 🏆 Trophies & Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -75,20 +81,20 @@ Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou ap
 
 ## 📚 Atualmente Estudando
 
-- ⚡ **React.js** — Componentização, Hooks, Context API  
-- 📱 **Flutter** — Aplicativos híbridos com UI nativa  
+- ⚡ **React.js** — Hooks, Context API e boas práticas  
+- 📱 **Flutter** — Aplicativos híbridos com UI moderna  
 - 🧠 **Python Avançado** — Automação e integração com APIs  
-- 🎨 **Design Responsivo e Acessibilidade (ARIA)**  
-- ☁️ **Implantação Web (GitHub Pages / Render)**  
+- 🎨 **Design Responsivo** e **Acessibilidade Web (ARIA)**  
+- ☁️ **Deploy de Aplicações Web (GitHub Pages / Render)**  
 
 ---
 
 ## 🎯 Metas Profissionais 2025
 
-- [x] Publicar projetos mensais no GitHub  
-- [x] Criar portfólio profissional online  
-- [x] Participar de contribuições open source  
-- [ ] Concluir especialização em React e Flutter  
+- [x] Publicar novos projetos mensalmente  
+- [x] Criar um portfólio profissional online  
+- [x] Contribuir em projetos open source  
+- [ ] Dominar React e Flutter  
 - [ ] Lançar um app próprio na Play Store  
 
 ---
