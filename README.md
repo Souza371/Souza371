@@ -10,22 +10,37 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação.  
-Atuo criando soluções completas em **web**, **automação** e **design responsivo**, com foco em **JavaScript**, **Python**, **HTML**, **CSS**, **React.js** e **Flutter**.  
-
-Gosto de aprender constantemente, experimentar novas tecnologias e transformar ideias em código funcional 🚀  
-
----
-
-## 🧠 Habilidades Principais
+## 🛠️ Stack de Tecnologias
 
 <div align="center">
 
-| 💡 Linguagens | ⚙️ Ferramentas & Frameworks | 🎨 Front-end & UI |
-|----------------|-----------------------------|-------------------|
-| JavaScript (ES6+), Python, SQL, Java | Node.js, Flask, SQLite, Git, GitHub, VSCode | HTML5, CSS3, React.js, Bootstrap, Tailwind, Figma |
+### **Linguagens de Programação**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### **Front-end & Frameworks**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **DevOps & Infraestrutura**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Banco de Dados & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -35,14 +50,11 @@ Gosto de aprender constantemente, experimentar novas tecnologias e transformar i
 
 | Projeto | Descrição | Tecnologias | Link |
 |----------|------------|-------------|------|
-| **Guincho On Demand** | Sistema de solicitação de guincho online | Python, JS, Flask | [🔗 Ver Projeto](https://github.com/Souza371/Guincho-On-demand) |
-| **Game of Thrones Quiz** | Quiz interativo com pontuação e animações | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
-| **Calculadora de IMC** | Interface responsiva e validação de dados | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/-Calculadora-de-IMC) |
-| **CRUD Gamificado** | CRUD com feedback visual e layout intuitivo | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado) |
-| **Gerenciador de Itens** | Controle de inventário com LocalStorage | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/gerenciador_itens) |
-| **Sistema de Recados** | Aplicação web para anotações rápidas | JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-Sistema-de-Recados) |
-| **Dashboard Anime.js** | Painel de animações com gráficos e interatividade | JS, Anime.js | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
-| **Portfólio Pessoal** | Meu site de apresentação profissional | HTML, CSS | [🔗 Ver Projeto](https://github.com/Souza371/Vicente-Souza-Desenvolvedor-de-Sistemas) |
+| **Guincho On Demand** | Sistema de solicitação de guincho online | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Guincho-On-demand) |
+| **Game of Thrones Quiz** | Quiz interativo com pontuação e animações | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
+| **Calculadora de IMC** | Interface responsiva e validação de dados | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/-Calculadora-de-IMC) |
+| **CRUD Gamificado** | CRUD com feedback visual e layout intuitivo | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado) |
+| **Dashboard Anime.js** | Painel de animações com gráficos e interatividade | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=flat-square) | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
 
 ---
 
@@ -112,12 +124,12 @@ Gosto de aprender constantemente, experimentar novas tecnologias e transformar i
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://souza371.github.io/Vicente-Souza-Desenvolvedor-de-Sistemas/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=About.me&logoColor=black&labelColor=FFD700"/>
   </a>
 </div>
 
 ---
 
 <p align="center">
-  🌟 <strong>“Transformando ideias em código e aprendizado em resultados.”</strong>
+  🌟 <strong>"Transformando ideias em código e aprendizado em resultados."</strong>
 </p>
