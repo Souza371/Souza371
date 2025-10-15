@@ -1,76 +1,99 @@
-# 👋 Olá! Eu sou o **Vicente Souza**
+<h1 align="center">👋 Olá, eu sou o <strong>Vicente Souza</strong></h1>
 
-🎯 **Desenvolvedor de Sistemas** focado em criar soluções eficientes e com bom design.  
-Atualmente explorando **JavaScript**, **Python**, **React** e **automação com scripts**.  
-Gosto de aprender, compartilhar e transformar ideias em código funcional 🚀  
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Repositório |
-|----------|------------|--------------|--------------|
-| **Guincho On Demand** | Sistema de solicitação de guincho online | Python, JS | [🔗 Ver Projeto](https://github.com/Souza371/Guincho-On-demand) |
-| **Game of Thrones Quiz** | Jogo interativo baseado na série | JS, HTML, CSS | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
-| **Calculadora de IMC** | Interface responsiva com validações | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/-Calculadora-de-IMC) |
-| **CRUD Gamificado** | CRUD com usabilidade e feedback visual | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado) |
-| **Gerenciador de Itens** | Controle simples com LocalStorage | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/gerenciador_itens) |
-| **Dashboard Anime.js** | Mini dashboard animado | JS (anime.js) | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
-| **Sistema de Recados** | App web para notas e lembretes | JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-Sistema-de-Recados) |
-| **Site Pessoal** | Meu portfólio online (em evolução) | HTML, CSS | [🔗 Ver Projeto](https://github.com/Souza371/Vicente-Souza-Desenvolvedor-de-Sistemas) |
+<p align="center">
+  💻 Desenvolvedor de Sistemas | 🎯 Foco em Front-end, Automação e Experiências Interativas  
+  <br/>
+  📍 Novo Hamburgo • Brasil | 📬 <a href="mailto:vicenteesouza371@gmail.com">vicenteesouza371@gmail.com</a>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Sobre Mim
+
+Sou apaixonado por tecnologia e desenvolvimento de sistemas.  
+Atualmente trabalho em projetos voltados para **web**, **automação** e **design responsivo**, sempre buscando unir **performance, estética e usabilidade**.  
+
+Tenho experiência com **JavaScript**, **Python**, **HTML**, **CSS**, e estou aprofundando meus estudos em **React.js** e **Flutter** para criar soluções completas — do front-end ao back-end.  
+
+---
+
+## 🧠 Habilidades Principais
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=dracula" alt="Linguagens"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Souza371&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="Contribuições"/>
+| 💡 Linguagens | ⚙️ Ferramentas & Frameworks | 🎨 Front-end & UI |
+|----------------|-----------------------------|-------------------|
+| JavaScript (ES6+), Python, SQL, Java | Git, GitHub, Node.js, Flask, SQLite, VSCode | HTML5, CSS3, React.js, Bootstrap, Tailwind, Figma |
+
 </div>
 
 ---
 
-## 🐍 Contribuições em movimento
+## 🧩 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+|----------|------------|-------------|------|
+| **Guincho On Demand** | Sistema de solicitação de guincho online | Python, JS, Flask | [🔗 Ver Projeto](https://github.com/Souza371/Guincho-On-demand) |
+| **Game of Thrones Quiz** | Quiz interativo com pontuação e animações | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
+| **Calculadora de IMC** | Interface responsiva e validação de dados | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/-Calculadora-de-IMC) |
+| **CRUD Gamificado** | CRUD com feedback visual e layout intuitivo | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado) |
+| **Gerenciador de Itens** | Controle de inventário com LocalStorage | HTML, CSS, JS | [🔗 Ver Projeto](https://github.com/Souza371/gerenciador_itens) |
+| **Sistema de Recados** | Aplicação web para anotações rápidas | JS | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-Sistema-de-Recados) |
+| **Dashboard Anime.js** | Painel de animações com gráficos e interatividade | JS, Anime.js | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
+| **Portfólio Pessoal** | Meu site de apresentação profissional | HTML, CSS | [🔗 Ver Projeto](https://github.com/Souza371/Vicente-Souza-Desenvolvedor-de-Sistemas) |
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies & Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=onestar&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 📚 Estudando Atualmente
+## 🐍 Contribuições em Movimento
 
-- 🔹 **JavaScript (ES6+)** e testes com Jest  
-- 🔹 **React.js** (Hooks, Context, boas práticas)  
-- 🔹 **Flutter** (aplicativos mobile)  
-- 🔹 **Design Systems e Acessibilidade (ARIA)**  
-- 🔹 **Automação com Python (scripts e web scraping)**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
 
 ---
 
-## 🎯 Metas para 2025
+## 📚 Atualmente Estudando
 
-- [x] Publicar 1 projeto por mês  
-- [x] Contribuir em projetos open source  
-- [ ] Dominar React.js  
-- [ ] Dominar Flutter  
-- [ ] Obter certificação front-end  
+- ⚡ **React.js** — Componentização, Hooks, Context API  
+- 📱 **Flutter** — Aplicativos híbridos com UI nativa  
+- 🧠 **Python Avançado** — Automação e integração com APIs  
+- 🎨 **Design Responsivo e Acessibilidade (ARIA)**  
+- ☁️ **Implantação Web (GitHub Pages / Render)**  
 
 ---
 
-## 📬 Contato
+## 🎯 Metas Profissionais 2025
+
+- [x] Publicar projetos mensais no GitHub  
+- [x] Criar portfólio profissional online  
+- [x] Participar de contribuições open source  
+- [ ] Concluir especialização em React e Flutter  
+- [ ] Lançar um app próprio na Play Store  
+
+---
+
+## 📬 Conecte-se Comigo
 
 <div align="center">
   <a href="mailto:vicenteesouza371@gmail.com">
@@ -82,8 +105,13 @@ Gosto de aprender, compartilhar e transformar ideias em código funcional 🚀
   <a href="https://www.instagram.com/vicente_de_souza_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://souza371.github.io/Vicente-Souza-Desenvolvedor-de-Sistemas/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-⭐ **“Transformando ideias em código e aprendizado em resultados.”**
+<p align="center">
+  🌟 <strong>“Transformando ideias em código e aprendizado em resultados.”</strong>
+</p>
