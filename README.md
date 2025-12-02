@@ -62,13 +62,15 @@
 
 <div align="center">
 
-### 🌟 Desempenho Geral
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Souza371&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
 ---
+
+<div align="center">
 
 ### 🔥 Sequência de Contribuições
 
