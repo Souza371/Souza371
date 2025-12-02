@@ -62,9 +62,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Souza371)
+<a href="https://github.com/Souza371">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Souza371)
+<a href="https://github.com/Souza371">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
