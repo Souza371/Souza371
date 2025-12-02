@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o <strong>Vicente Souza</strong></h1>
+<h1 align="center">👋 Olá, eu sou o <strong>Vicente de Souza</strong></h1>
 
 <p align="center">
   💻 Desenvolvedor de Sistemas | 🎯 Foco em Front-end, Automação e Experiências Interativas  
