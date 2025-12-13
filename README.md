@@ -6,10 +6,23 @@
 📍 Novo Hamburgo, RS, Brasil  
 📧 vicentedesouza762@gmail.com • 📱 (51) 99607-5583  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
-[![GitHub](https://img.shields.io/badge/GitHub-Souza371-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Projetos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
-[![Email](https://img.shields.io/badge/Email-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
+<div>
+  <a href="https://linkedin.com/in/vicente-souza-146b4527a">
+    <img src="https://img.shields.io/badge/LinkedIn-VICENTE_SOUZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Souza371">
+    <img src="https://img.shields.io/badge/GitHub-SOUZA371-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://souza371.github.io/portfolio-vicente-souza-/">
+    <img src="https://img.shields.io/badge/Portfólio-VER_PROJETOS-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://wa.me/5551996075583">
+    <img src="https://img.shields.io/badge/WhatsApp-CONTATO_DIRETO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:vicentedesouza762@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTATO_PROFISSIONAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 </div>
 
@@ -150,10 +163,20 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 Aberto para **colaborações**, **oportunidades** e **networking profissional**.
 
-[![Email](https://img.shields.io/badge/Email-vicentedesouza762@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato_Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Meus_Projetos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
+<div>
+  <a href="mailto:vicentedesouza762@gmail.com">
+    <img src="https://img.shields.io/badge/Email-VICENTEDESOUZA762@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/vicente-souza-146b4527a">
+    <img src="https://img.shields.io/badge/LinkedIn-VICENTE_SOUZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5551996075583">
+    <img src="https://img.shields.io/badge/WhatsApp-CONTATO_DIRETO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://souza371.github.io/portfolio-vicente-souza-/">
+    <img src="https://img.shields.io/badge/Portfólio-MEUS_PROJETOS-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</div>
 
 ---
 
