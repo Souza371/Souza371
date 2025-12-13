@@ -35,7 +35,7 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg)
   
   *Essa cobrinha come meus commits diários!* 🐍
   
@@ -47,10 +47,10 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=false&background=0d1117&ring=00ff41&fire=ff6e3a&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 
 </div>
 
