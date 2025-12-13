@@ -7,7 +7,7 @@
 📧 vicentedesouza762@gmail.com • 📱 (51) 99607-5583  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
-[![GitHub](https://img.shields.io/badge/GitHub-Souza371-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
+[![GitHub](https://img.shields.io/badge/GitHub-Souza371-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visite_meu_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
 
@@ -26,8 +26,8 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 - 🚀 **DevOps & Infraestrutura:** Docker, Linux, Shell Script
 
 **🎓 Formação:**
-- **Análise e Desenvolvimento de Sistemas** - Unicesumar EAD (2023-2026)
-- **Engenharia de Software** - Unicesumar EAD (2023-2029)
+- **Análise e Desenvolvimento de Sistemas** - SENAC
+- **Engenharia de Software** - Unicesumar
 
 ---
 
@@ -47,11 +47,11 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d,1a1a2e&title_color=ff7b72&icon_color=58a6ff&text_color=c9d1d9&line_height=30)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=58a6ff&text_color=8b949e&icon_color=79c0ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d,1a1a2e&title_color=ff7b72&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=58a6ff&text_color=8b949e)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=true&background=0D1117&ring=FF7B72)](https://github.com/Souza371)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=false&background=1a1b27&ring=58a6ff&fire=FF6B35&currStreakNum=79c0ff)](https://github.com/Souza371)
 
 </div>
 
@@ -72,9 +72,9 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **⚙️ Backend & Ferramentas**
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-90C53F?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=swagger&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-FF6B35?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -116,7 +116,7 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souza371&theme=radical&no-frame=true&row=1&column=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=5&margin-h=5)
 
 ### 🎯 Metas 2025
 
@@ -152,13 +152,13 @@ Estou sempre aberto a **colaborações**, **feedbacks** e **novas oportunidades*
 [![Email](https://img.shields.io/badge/Email-vicentedesouza762@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(51)_99607_5583-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visite_meu_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visite_meu_Site-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
 
 ---
 
 ### 📊 Visitantes
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Souza371&color=blueviolet&style=plastic)
+![Visitor Count](https://komarev.com/ghpvc/?username=Souza371&color=FF6B35&style=plastic)
 
 ---
 
