@@ -6,10 +6,10 @@
 📍 Novo Hamburgo, RS, Brasil  
 📧 vicentedesouza762@gmail.com • 📱 (51) 99607-5583  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
-[![GitHub](https://img.shields.io/badge/GitHub-Souza371-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Visite_meu_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
+[![GitHub](https://img.shields.io/badge/GitHub-Souza371-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Projetos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
+[![Email](https://img.shields.io/badge/Email-Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
 
 </div>
 
@@ -47,11 +47,10 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=58a6ff&text_color=8b949e&icon_color=79c0ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b27&title_color=58a6ff&text_color=8b949e)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=false&background=1a1b27&ring=58a6ff&fire=FF6B35&currStreakNum=79c0ff)](https://github.com/Souza371)
+<img src="https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
@@ -118,14 +117,17 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=5&margin-h=5)
 
-### 🎯 Metas 2025
+### 🎯 Conquistas & Objetivos
 
 ```
-✅ 2024: Dominar JavaScript ES6+ e Node.js
-🎯 2025: Aprofundar em Docker & Kubernetes
-🎯 2025: 3+ projetos full-stack completos
-🎯 2025: Contribuir ativamente em open-source
-🎯 2025: Especialização em Cloud Computing
+✅ JavaScript ES6+ e Node.js dominados
+✅ Sistema de autenticação completo (CRUD Gamificado)
+✅ API REST funcional com Express e SQLite
+✅ Portfolio profissional publicado
+✅ Múltiplos projetos full-stack concluídos
+🎯 Aprofundar em Docker & CI/CD
+🎯 Contribuir em projetos open-source
+🎯 Certificações em Cloud Computing
 ```
 
 </div>
@@ -143,30 +145,24 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 ---
 
-## 📫 **Vamos Conversar?**
+## 📫 **Contato Profissional**
 
 <div align="center">
 
-Estou sempre aberto a **colaborações**, **feedbacks** e **novas oportunidades**!
+Aberto para **colaborações**, **oportunidades** e **networking profissional**.
 
-[![Email](https://img.shields.io/badge/Email-vicentedesouza762@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(51)_99607_5583-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visite_meu_Site-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
-
----
-
-### 📊 Visitantes
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Souza371&color=FF6B35&style=plastic)
+[![Email](https://img.shields.io/badge/Email-vicentedesouza762@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicentedesouza762@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vicente_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicente-souza-146b4527a)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato_Direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Meus_Projetos-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza-/)
 
 ---
 
 <div align="center">
 
-**⭐ Se gostou do meu trabalho, deixe uma estrela nos meus repositórios! ⭐**
+**⭐ Se gostou do meu trabalho, deixe uma estrela nos repositórios! ⭐**
 
-*Feito com ❤️ por Vicente de Souza*
+**Vicente de Souza** • Desenvolvedor Full Stack
 
 </div>
 
