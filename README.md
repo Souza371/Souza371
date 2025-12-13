@@ -51,10 +51,10 @@
 | Projeto | Descrição | Tecnologias | Link |
 |----------|------------|-------------|------|
 | **Guincho On Demand** | Sistema de solicitação de guincho online | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Guincho-On-demand) |
-| **Game of Thrones Quiz** | Quiz interativo com pontuação e animações | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
+| **Game of Thrones Quiz** | Quiz interativo com pontuação e animações | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Game-of-Trones) |
 | **Calculadora de IMC** | Interface responsiva e validação de dados | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/-Calculadora-de-IMC) |
 | **CRUD Gamificado** | CRUD com feedback visual e layout intuitivo | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Ver Projeto](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado) |
-| **Dashboard Anime.js** | Painel de animações com gráficos e interatividade | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=flat-square) | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
+| **Dashboard Anime. js** | Painel de animações com gráficos e interatividade | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Anime.js](https://img.shields.io/badge/Anime.js-000000?style=flat-square) | [🔗 Ver Projeto](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Anima-es-Anime.js-) |
 
 ---
 
@@ -63,39 +63,43 @@
 <div align="center">
 
 <a href="https://github.com/Souza371">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
 </a>
 
 <a href="https://github.com/Souza371">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"/>
 </a>
 
 </div>
 
 ---
 
+## 🔥 Sequência de Contribuições
+
 <div align="center">
-
-### 🔥 Sequência de Contribuições
-
-<img src="https://streak-stats.demolab.com?user=Souza371&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souza371&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Troféus & Conquistas
+## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=9&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-## 🐍 Contribuições em Movimento
+## 📊 Atividade de Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Souza371/Souza371/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  
+![](https://github-readme-activity-graph.vercel. app/graph?username=Souza371&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -123,7 +127,7 @@
 ## 📬 Conecte-se Comigo
 
 <div align="center">
-  <a href="mailto:vicenteesouza371@gmail.com">
+  <a href="mailto: vicenteesouza371@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/vicente-souza-146b4527a/">
@@ -135,6 +139,16 @@
   <a href="https://souza371.github.io/portfolio-vicente-souza-/">
     <img src="https://img.shields.io/badge/Portfólio-FFD700?style=for-the-badge&logo=About.me&logoColor=black&labelColor=FFD700" alt="Portfólio"/>
   </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 💻 Visitor Count
+  
+![Visitor Count](https://profile-counter.glitch.me/Souza371/count.svg)
+
 </div>
 
 ---
