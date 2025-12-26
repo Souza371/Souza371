@@ -61,15 +61,22 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 <div align="center">
   
 <a href="https://github.com/Souza371">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=false&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Souza371">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
 
+<br/>
+
 <div align="center">
   
-![Streak Stats](https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=false)
+<a href="https://github.com/Souza371">
+  <img src="https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</a>
 
 </div>
 
