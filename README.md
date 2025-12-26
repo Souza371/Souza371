@@ -1,15 +1,14 @@
-
 <div align="center">
 
 # 👋 Welcome to My GitHub Profile!
 
 ### 🚀 Full Stack Developer | 💡 Tech Enthusiast | 🎯 Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-souza-146b4527a/)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
+[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.souza@gmail.com)
 
 </div>
 
@@ -32,7 +31,6 @@ Meu objetivo é construir aplicações que impactem positivamente pessoas e neg�
 </div>
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -100,37 +98,32 @@ Meu objetivo é construir aplicações que impactem positivamente pessoas e neg�
 
 ---
 
-
-
-
 ## 📚 Conhecimentos Adicionais
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
-	<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white" alt="Scrum"/>
-	<img src="https://img.shields.io/badge/TDD-FF6C37?style=for-the-badge&logo=jest&logoColor=white" alt="TDD"/>
-	<img src="https://img.shields.io/badge/Clean%20Code-239120?style=for-the-badge&logo=code&logoColor=white" alt="Clean Code"/>
-	<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-	<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-	<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-	<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-	<img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
-	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-	<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+	<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white"/>
+	<img src="https://img.shields.io/badge/TDD-FF6C37?style=for-the-badge&logo=jest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Clean%20Code-239120?style=for-the-badge&logo=code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+	<img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge&logo=oauth&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
 </div>
 
 ---
 
 ## 💼 Professional Contact
 
-### 📫 Let's Connect and Build Something Amazing Together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-souza-146b4527a/)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
+[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.souza@gmail.com)
 
 ---
 
@@ -140,7 +133,7 @@ Meu objetivo é construir aplicações que impactem positivamente pessoas e neg�
 
 🌟 Currently open to:
 
-		💼 Full-time positions
-		🤝 Freelance projects
-		🚀 Open source collaborations
-		📚 Mentoring opportunities
+	💼 Full-time positions  
+	🤝 Freelance projects  
+	🚀 Open source collaborations  
+	📚 Mentoring opportunities  
