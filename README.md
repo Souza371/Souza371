@@ -30,7 +30,7 @@
 
 ## 👨‍💻 **Sobre Mim**
 
-Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenharia de Software), focando em desenvolvimento full-stack e automação. Aprendizado contínuo através de projetos práticos e desafios reais, construindo soluções interativas, responsivas e escaláveis.
+Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenharia de Software), focando em desenvolvimento full-stack e automação. Aprendizado contínuo através de projetos práticos e soluções inovadoras.
 
 **Especialidades:**
 - 🎨 **Front-end:** HTML5, CSS3, JavaScript ES6+, Vue.js
@@ -59,9 +59,16 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=false&cache_seconds=86400&langs_count=8"/>
+  
+<a href="https://github.com/Souza371">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza371&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza371&layout=compact&theme=radical&hide_border=false&langs_count=8"/>
+</a>
 
+</div>
+
+<div align="center">
+  
 ![Streak Stats](https://streak-stats.demolab.com?user=Souza371&theme=radical&hide_border=false)
 
 </div>
@@ -115,10 +122,10 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| **[🎮 CRUD Gamificado](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado)** | Sistema completo com autenticação, perfil personalizado e gamificação | `Node.js` `Express` `SQLite` `JavaScript` `CSS3` | ✅ **Ativo** |
-| **[🔧 Guincho On Demand](https://github.com/Souza371/Guincho-On-demand)** | Plataforma de solicitação de serviço de guincho em tempo real | `Python` `Flask` `JavaScript` `Bootstrap` | 🚀 **Em desenvolvimento** |
+| **[🎮 CRUD Gamificado](https://github.com/Souza371/Projeto-Final-CRUD-Gamificado)** | Sistema completo com autenticação, perfil personalizado e gamificação | `Node.js` `Express` `SQLite` `Bootstrap` | ✅ **Concluído** |
+| **[🔧 Guincho On Demand](https://github.com/Souza371/Guincho-On-demand)** | Plataforma de solicitação de serviço de guincho em tempo real | `Python` `Flask` `JavaScript` `Bootstrap` | 🚀 **Em Produção** |
 | **[🎯 Game of Thrones Quiz](https://github.com/Souza371/Game-of-Thrones)** | Quiz interativo com animações e efeitos visuais | `HTML5` `CSS3` `JavaScript` | ✅ **Completo** |
-| **[📊 Dashboard Anime.js](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Animacoes-Anime.js)** | Painel dinâmico com animações avançadas | `JavaScript` `Anime.js` `HTML5` `CSS3` | 🔧 **Em desenvolvimento** |
+| **[📊 Dashboard Anime.js](https://github.com/Souza371/Mini-Projeto-Dashboard-de-Animacoes-Anime.js)** | Painel dinâmico com animações avançadas | `JavaScript` `Anime.js` `HTML5` `CSS3` | ✅ **Finalizado** |
 | **[💼 Portfolio](https://souza371.github.io/portfolio-vicente-souza-/)** | Portfólio profissional responsivo | `HTML5` `CSS3` `JavaScript` `Responsive Design` | ✅ **Ativo** |
 
 ---
@@ -127,7 +134,7 @@ Desenvolvedor em formação com **dupla graduação em andamento** (ADS e Engenh
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=5&margin-h=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Souza371&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5&margin-h=5)
 
 ### 🎯 Conquistas & Objetivos
 
@@ -187,4 +194,3 @@ Aberto para **colaborações**, **oportunidades** e **networking profissional**.
 **Vicente de Souza** • Desenvolvedor Full Stack
 
 </div>
-
