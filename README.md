@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-souza-146b4527a/)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souza371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souza371.github.io/portfolio-vicente-souza/)
+[![Portfolio]https://souza371.github.io/portfolio-vicente-souza-/
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996075583)
 [![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.souza@gmail.com)
 
